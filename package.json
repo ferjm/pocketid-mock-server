@@ -1,0 +1,24 @@
+{
+  "name": "pocketid-mock-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.0.2",
+    "error-handler": "^1.0.0",
+    "express": "^4.12.3",
+    "express-winston": "^0.3.1",
+    "gulp": "^3.9.0",
+    "node-uuid": "^1.4.7",
+    "nodemailer": "^2.5.0",
+    "winston": "^1.0.1",
+    "ws": "^1.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ferjm/pocketid-mock-server"
+  },
+  "scripts": {
+    "start": "gulp"
+  }
+}
